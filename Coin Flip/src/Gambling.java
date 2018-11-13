@@ -13,6 +13,7 @@ public class Gambling
 		takeGuess();
 		rollDie();
 		achieveBalance();
+		// very cool!! Thank you Kanye
 		}	
 	public static void greetUser()
 		{
